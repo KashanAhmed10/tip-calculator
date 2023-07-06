@@ -1,0 +1,49 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f2f2f2;
+        background-image: url('https://media.istockphoto.com/id/1257012443/photo/close-up-of-customer-paying-to-a-waitress-in-a-cafe.jpg?s=612x612&w=0&k=20&c=Cqv0GNZ0S8oqMwpMyFKqpPPosqztz9o2CuWRVTvpms0=');
+    }
+
+    h1 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    input[type="number"] {
+        width: 200px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+        margin:10px;
+    }
+
+    button {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+       
+    }
+    .output {
+        text-align: center;
+        font-size: 36px;
+        color: #fff;
+        background-color: #4CAF50;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        margin-bottom: 20px;
+    }
+    .center{
+        display: flex;  
+    align-items: center;
+justify-content: center;  }
+
